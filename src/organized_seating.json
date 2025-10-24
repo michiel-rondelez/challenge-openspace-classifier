@@ -1,12 +1,12 @@
 {
-    "number_of_tables": 0,
+    "max_number_of_tables": 6,
     "tables": [
         {
             "capacity": 4,
             "seats": [
                 {
                     "free": false,
-                    "occupant": "Aleksei"
+                    "occupant": "Ena"
                 },
                 {
                     "free": false,
@@ -14,7 +14,49 @@
                 },
                 {
                     "free": false,
+                    "occupant": "Anna"
+                },
+                {
+                    "free": false,
                     "occupant": "Amine"
+                }
+            ]
+        },
+        {
+            "capacity": 4,
+            "seats": [
+                {
+                    "free": false,
+                    "occupant": "Tim"
+                },
+                {
+                    "free": false,
+                    "occupant": "H\u00e9lo\u00efse"
+                },
+                {
+                    "free": false,
+                    "occupant": "Imran"
+                },
+                {
+                    "free": false,
+                    "occupant": "Michiel"
+                }
+            ]
+        },
+        {
+            "capacity": 4,
+            "seats": [
+                {
+                    "free": false,
+                    "occupant": "Sandrine"
+                },
+                {
+                    "free": false,
+                    "occupant": "Fr\u00e9d\u00e9ric"
+                },
+                {
+                    "free": false,
+                    "occupant": "Welederufeal"
                 },
                 {
                     "free": false,
@@ -27,36 +69,15 @@
             "seats": [
                 {
                     "free": false,
+                    "occupant": "Faranges"
+                },
+                {
+                    "free": false,
+                    "occupant": "Brigitta"
+                },
+                {
+                    "free": false,
                     "occupant": "\u017divile"
-                },
-                {
-                    "free": false,
-                    "occupant": "Pierrick"
-                },
-                {
-                    "free": false,
-                    "occupant": "Nancy"
-                },
-                {
-                    "free": false,
-                    "occupant": "H\u00e9lo\u00efse"
-                }
-            ]
-        },
-        {
-            "capacity": 4,
-            "seats": [
-                {
-                    "free": false,
-                    "occupant": "Bryan"
-                },
-                {
-                    "free": false,
-                    "occupant": "Kristin"
-                },
-                {
-                    "free": false,
-                    "occupant": "Sandrine"
                 },
                 {
                     "free": false,
@@ -69,19 +90,19 @@
             "seats": [
                 {
                     "free": false,
-                    "occupant": "Intan K."
-                },
-                {
-                    "free": false,
-                    "occupant": "Jens"
-                },
-                {
-                    "free": false,
                     "occupant": "Viktor"
                 },
                 {
                     "free": false,
-                    "occupant": "Anna"
+                    "occupant": "Nancy"
+                },
+                {
+                    "free": false,
+                    "occupant": "Pierrick"
+                },
+                {
+                    "free": false,
+                    "occupant": "Jens"
                 }
             ]
         },
@@ -90,40 +111,19 @@
             "seats": [
                 {
                     "free": false,
-                    "occupant": "Ena"
+                    "occupant": "Kristin"
                 },
                 {
                     "free": false,
-                    "occupant": "Michiel"
+                    "occupant": "Bryan"
                 },
                 {
                     "free": false,
-                    "occupant": "Faranges"
+                    "occupant": "Aleksei"
                 },
                 {
                     "free": false,
-                    "occupant": "Fr\u00e9d\u00e9ric"
-                }
-            ]
-        },
-        {
-            "capacity": 4,
-            "seats": [
-                {
-                    "free": false,
-                    "occupant": "Welederufeal"
-                },
-                {
-                    "free": false,
-                    "occupant": "Brigitta"
-                },
-                {
-                    "free": false,
-                    "occupant": "Imran"
-                },
-                {
-                    "free": false,
-                    "occupant": "Tim"
+                    "occupant": "Intan K."
                 }
             ]
         }
