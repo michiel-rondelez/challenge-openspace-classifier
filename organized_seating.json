@@ -1,0 +1,29 @@
+{
+    "max_number_of_tables": 6,
+    "tables": [
+        {
+            "capacity": 4,
+            "seats": []
+        },
+        {
+            "capacity": 4,
+            "seats": []
+        },
+        {
+            "capacity": 4,
+            "seats": []
+        },
+        {
+            "capacity": 4,
+            "seats": []
+        },
+        {
+            "capacity": 4,
+            "seats": []
+        },
+        {
+            "capacity": 4,
+            "seats": []
+        }
+    ]
+}
